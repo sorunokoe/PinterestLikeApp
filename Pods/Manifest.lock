@@ -1,0 +1,24 @@
+PODS:
+  - Hue (3.0.1)
+  - Kingfisher (4.10.0)
+  - PureLayout (3.1.2)
+
+DEPENDENCIES:
+  - Hue
+  - Kingfisher (~> 4.0)
+  - PureLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hue
+    - Kingfisher
+    - PureLayout
+
+SPEC CHECKSUMS:
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  PureLayout: 4634d0b61e3b5021166e8ec7c18e9e0ca0720c8b
+
+PODFILE CHECKSUM: c7466d9ea643505a68865bfeef6b7264453ef0b7
+
+COCOAPODS: 1.5.3
